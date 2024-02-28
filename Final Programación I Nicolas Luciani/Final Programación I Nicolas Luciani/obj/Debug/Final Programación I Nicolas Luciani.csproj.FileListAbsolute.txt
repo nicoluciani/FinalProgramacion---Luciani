@@ -1,0 +1,29 @@
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\Final Programación I Nicolas Luciani.exe.config
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\Final Programación I Nicolas Luciani.exe
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\Final Programación I Nicolas Luciani.pdb
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Form1.resources
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Form2.resources
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Form3.resources
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Properties.Resources.resources
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.exe
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.pdb
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\COMUN.dll
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\COMUN.pdb
+C:\Users\nicol\Desktop\Final Programacion I\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.CopyComplete
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\Final Programación I Nicolas Luciani.exe.config
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\Final Programación I Nicolas Luciani.exe
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\Final Programación I Nicolas Luciani.pdb
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\bin\Debug\COMUN.pdb
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Form1.resources
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Form2.resources
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Form3.resources
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final_Programación_I_Nicolas_Luciani.Properties.Resources.resources
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.csproj.CopyComplete
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.exe
+C:\Users\nicol\Desktop\FACULTAD\facultad\PARCIALES\Final Programacion I Luciani Nicolas\Final Programación I Nicolas Luciani\Final Programación I Nicolas Luciani\obj\Debug\Final Programación I Nicolas Luciani.pdb
